@@ -12,7 +12,8 @@
       "ctrl-shift-up": "editor::MoveLineUp",
       "ctrl-shift-down": "editor::MoveLineDown",
       "alt-down": ["editor::SelectNext", { "replace_newest": false }],
-      "alt-up": ["editor::SelectPrevious", { "replace_newest": false }]
-    }
-  }
+      "alt-up": ["editor::SelectPrevious", { "replace_newest": false }],
+      "ctrl-shift-c": "editor::ToggleComments",
+    },
+  },
 ]
