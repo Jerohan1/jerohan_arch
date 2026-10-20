@@ -1,6 +1,0 @@
-2026/02/02-16:17:54.153 53b Reusing MANIFEST /home/jo/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2026/02/02-16:17:54.169 53b Recovering log #175
-2026/02/02-16:17:54.170 53b Reusing old log /home/jo/.config/vesktop/sessionData/Local Storage/leveldb/000175.log 
-2026/02/02-16:19:54.542 53b Level-0 table #180: started
-2026/02/02-16:19:54.547 53b Level-0 table #180: 39000 bytes OK
-2026/02/02-16:19:54.549 53b Delete type=0 #175
